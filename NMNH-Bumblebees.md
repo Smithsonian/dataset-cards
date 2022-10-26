@@ -1,6 +1,6 @@
 ## Dataset Summary 
 
-The USNM Bumblebee Dataset is a natural history dataset containing, for each of 62,601 Bumblebee specimens in the genus Bombus, a single image in lateral view and a tab-separated value file with occurrence data. Occurrence data includes the species classification, the date/time and site/location of collection, and other metadata conforming to the Darwin Core data standard (https://dwc.tdwg.org). 10,764 specimens are not identified to species and these specimens are included as ‘Bombus sp.’ The collecting sites/locations of the majority of specimens (41,008), have been georeferenced. The dataset is worldwide in scope, but is limited to the specimens available in the Smithsonian USNM collection.  
+The USNM Bumblebee Dataset is a natural history dataset containing, for each of 62,602 Bumblebee specimens in the genus Bombus, a single image in lateral view and a tab-separated value file with occurrence data. Occurrence data includes the species classification, the date/time and site/location of collection, and other metadata conforming to the Darwin Core data standard (https://dwc.tdwg.org). 10,764 specimens are not identified to species and these specimens are included as ‘Bombus sp.’ The collecting sites/locations of the majority of specimens (41,008), have been georeferenced. The dataset is worldwide in scope, but is limited to the specimens available in the Smithsonian USNM collection.  
 
 ## Languages 
 
@@ -351,7 +351,7 @@ Public domain, Creative Commons CC0.
 
 ## Citation Information 
 
-Add DOI from GBIF. 
+GBIF.org (26 October 2022) GBIF Occurrence Download https://doi.org/10.15468/dl.48yf72
 
 
 ## Contributions 
