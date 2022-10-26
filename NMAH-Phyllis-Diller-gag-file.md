@@ -105,6 +105,7 @@ These data are provided with a CC0 license.
 Both the transcriptions as well as images of index cards are available for bulk download from FigShare.
 
 **Images DOI:** 10.25573/data.21401055
+
 **Transcriptions DOI:** 10.25573/data.21401145
 
 ## Contributions 
