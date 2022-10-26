@@ -102,26 +102,10 @@ These data are provided with a CC0 license.
 
 ## Citation Information 
 
-Provide the BibTex-formatted reference for the dataset. For example: 
-
-@article{article_id, 
-
-  author    = {Author List}, 
-
-  title     = {Dataset Paper Title}, 
-
-  journal   = {Publication Venue}, 
-
-  year      = {2525} 
-
-} 
-
-If the dataset has a DOI, please provide it here. 
+Both the transcriptions as well as images of index cards are available for bulk download from FigShare.
 
 ## Contributions 
 
- 
-
-Thanks to [@github-username](https://github.com/<github-username>) for adding this dataset. 
+Thanks to NMAH for adding this dataset. 
 
  
