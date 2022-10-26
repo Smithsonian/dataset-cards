@@ -13,81 +13,43 @@ American English (en-US).
 *The dataset is available for download in CSV, TXT, or XML format. The JSON example below is converted from the XML export.*
 ```json
 { 
-
   "transcriptionProject": { 
-
     "project": { 
-
       "projectMetadata": "edanmdm:nmah_1218385", 
-
       "projectImage": "NMAH-AHB2016q100006", 
-
       "projectImportQuery": "/Public_Sets/NMAH/NMAH-CIS/2003_0289_01_01/Drawer01/01", 
-
       "projectDeletedBy": 0, 
-
       "isProjectDeleted": 0, 
-
       "projectAdminNotes": "", 
-
       "isMediaTranscription": 0, 
-
       "assets": { 
-
         "asset": [ 
-
           { 
-
             "assetImage": "NMAH-AHB2016q100001", 
-
             "transcription": { 
-
               "tl1_text": "ACCIDENT\nPhyllis Gag\nJUL/1964\nMother's driving -- Model T up the hill on 3 tires -- backing in filling station -- Hoover in car -- hit from back -- Dad in ditch passing on wrong side." 
-
             }, 
-
             "assetName": "NMAH-AHB2016q100001", 
-
             "templateId": 1, 
-
             "assetStatus": 10 
-
           }, 
-
           { 
-
             "assetImage": "NMAH-AHB2016q100002", 
-
             "transcription": { 
-
               "tl1_text": "ACCIDENT\nPhyllis Gag\nJUL/1964\nDangerous living is not new to me, you know -- I drive." 
-
             }, 
-
             "assetName": "NMAH-AHB2016q100002", 
-
             "templateId": 1, 
-
             "assetStatus": 10 
-
           }, 
-
           { 
-
             "assetImage": "NMAH-AHB2016q100003", 
-
             "transcription": { 
-
               "tl1_text": "Accidents\nBill Guschl\n19/DEC/1964\nFang came home late the other night and ran into the garage - Lucky he didn't have the car." 
-
             }, 
-
             "assetName": "NMAH-AHB2016q100003", 
-
             "templateId": 1, 
-
             "assetStatus": 10 
-
           }
 ```
 
