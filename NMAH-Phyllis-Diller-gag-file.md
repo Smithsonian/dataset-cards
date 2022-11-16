@@ -98,7 +98,7 @@ The dataset stems from sources originally written or purchased by Phyllis Diller
 
 ## Licensing Information 
 
-These data are provided with a CC0 license. 
+These data are provided under the Smithsonian Terms of Use (https://www.si.edu/termsofuse). 
 
 ## Citation Information 
 
